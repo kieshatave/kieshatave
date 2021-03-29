@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kieshatave
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SEO and UNIX Scripting
+- 🌱 I’m currently learning SEO, UNIX Scripting and GitHub.
 - 📫 How to reach me contact@kieshatave.com
 
 <!---
