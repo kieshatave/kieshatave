@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kieshatave
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C#, Java and GitHub.
-- 📫 How to reach me kieshaseymone@icloud.com
+- 📫 How to reach me kiesha.seymone@icloud.com
 
 <!---
 kieshatave/kieshatave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
