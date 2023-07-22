@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kieshatave
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#, Java and GitHub.
+- 👀 I’m interested in DevOps Engineering
+- 🌱 I’m currently learning Java, React and AWS.
 - 📫 How to reach me kiesha.seymone@icloud.com
 
 <!---
